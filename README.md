@@ -1,52 +1,87 @@
-# <p align="center">Hi 👋 I'm Kreya Panchal</p>
+# <p align="center">✨ Kreya Panchal | Software Developer</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Developer;Backend+Architect;Web+Developer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Backend+Architect;C%2B%2B+Programmer;Problem+Solver" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mayank-Hacker/Mayank-Hacker/main/assets/developer.gif" width="350" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=36BCF7&height=150&section=header&text=Building%20Scalable%20Solutions&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Header Banner" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KreyaPanchal&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Views" />
+  <img src="https://img.shields.io/badge/Maintained%3F-Yes-36BCF7?style=flat-square" alt="Maintained" />
 </p>
 
 ---
 
-### 💫 Professional Summary
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN4bmh6bmh6bmh6bmh6bmh6bmh6bmh6bmh6bmh6bmh6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="180" />
+### 💫 About Me
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN4bmh6bmh6bmh6bmh6bmh6bmh6bmh6bmh6bmh6bmh6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
 
-- 🚀 **Role:** Passionate **Software Developer** focused on building scalable web solutions.
-- 💻 **Expertise:** Deep-diving into **Node.js**, **Express**, and **MongoDB** for robust backends.
-- 🛠️ **Building:** Currently developing RESTful APIs and optimizing database performance.
-- 📫 **Connect:** [kriya22908@gmail.com]
+- 🚀 **Role:** Passionate **Software Developer** dedicated to building efficient and scalable web applications.
+- 💻 **Expertise:** Deep-diving into the **MERN Stack** and high-performance **C++** programming.
+- 🛠️ **Working On:** Optimizing the **User Management REST API** for high-traffic environments.
+- 🌱 **Learning:** Currently exploring **AWS Cloud Infrastructure** and **System Design Patterns**.
+- 📍 **Based In:** Kalol, Gujarat, India.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,js,cpp,git,postman,vscode,html,css" />
-  </a>
-</p>
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
+| Project | Description | Stack |
 | :--- | :--- | :--- |
-| **🔐 User Management API** | Full CRUD system with secure endpoints and Postman testing. | `Node.js` `Express` `MongoDB` |
-| **📊 States Data API** | Real-time API serving demographic & economic data for Indian states. | `Node.js` `JSON` |
-| **🏗️ DSA Implementation** | High-performance C++ programs for Stacks, Queues, and Sorting. | `C++` `Algorithms` |
+| **🔐 User Management API** | Robust RESTful API with full CRUD functionality, secure authentication, and optimized MongoDB queries. | `Node.js` `Express` `MongoDB` |
+| **📊 States Data API** | A high-performance regional data provider serving demographic and literacy statistics for Indian states. | `Node.js` `JSON` `REST` |
+| **🏗️ DSA Suite** | A collection of optimized data structures and algorithms implemented in C++ for maximum efficiency. | `C++` `Algorithms` `Optimization` |
 
 ---
 
-### 🤝 Networking & Profiles
+### 🏆 Achievements & Trophies
 <p align="center">
-<a href="https://www.linkedin.com/in/nandini-prajapati-6351363b1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/NandiniPraj4434"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://www.youtube.com/@NandiniPrajapati-n8z"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-<a href="https://www.sololearn.com/en/profile/34914137"><img src="https://img.shields.io/badge/Sololearn-141a29?style=for-the-badge&logo=sololearn&logoColor=white" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=KreyaPanchal&theme=tokyonight&column=4&margin-w=15&border_radius=10" alt="Trophies" />
 </p>
 
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=36BCF7&height=100&section=footer" />
-</p> -->
+---
+
+### 📊 GitHub Performance Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KreyaPanchal&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" alt="Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KreyaPanchal&theme=tokyonight&border_radius=10&hide_border=true" alt="Streak" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KreyaPanchal&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" alt="Languages" height="180" />
+</p>
+
+---
+
+### 🐍 Contribution Activity
+<p align="center">
+  <img src="https://count.getloli.com/get/@KreyaPanchal?theme=moebooru" alt="Visitor Count" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+<p align="center">
+<a href="https://www.linkedin.com/in/nandini-prajapati-6351363b1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:kriya22908@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://x.com/NandiniPraj4434"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.youtube.com/@NandiniPrajapati-n8z"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=36BCF7&height=60&section=footer" />
+</p>
