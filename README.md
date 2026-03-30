@@ -4,9 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Backend+Architect;C%2B%2B+Programmer;Problem+Solver" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=36BCF7&height=150&section=header&text=Building%20Scalable%20Solutions&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Header Banner" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KreyaPanchal&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Views" />
@@ -48,21 +45,9 @@
 
 ---
 
-### 🏆 Achievements & Trophies
+## 📊 GitHub Performance Metrics
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KreyaPanchal&theme=tokyonight&column=4&margin-w=15&border_radius=10" alt="Trophies" />
-</p>
-
----
-
-### 📊 GitHub Performance Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KreyaPanchal&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" alt="Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KreyaPanchal&theme=tokyonight&border_radius=10&hide_border=true" alt="Streak" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KreyaPanchal&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" alt="Languages" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kreya228&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -76,12 +61,8 @@
 
 ### 🤝 Connect With Me
 <p align="center">
-<a href="https://www.linkedin.com/in/nandini-prajapati-6351363b1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/kreya-panchal-08a045372/?skipRedirect=true"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:kriya22908@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://x.com/NandiniPraj4434"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://www.youtube.com/@NandiniPrajapati-n8z"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=36BCF7&height=60&section=footer" />
+<a href="https://x.com/KreyaPanchal"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.youtube.com/@KREYAPANCHAL-de1gg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
