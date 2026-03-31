@@ -12,16 +12,19 @@
 
 ---
 
-### 💫 About Me
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN4bmh6bmh6bmh6bmh6bmh6bmh6bmh6bmh6bmh6bmh6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+### 👋 About Me
 
-- 🚀 **Role:** Passionate **Software Developer** dedicated to building efficient and scalable web applications.
-- 💻 **Expertise:** Deep-diving into the **MERN Stack** and high-performance **C++** programming.
-- 🛠️ **Working On:** Optimizing the **User Management REST API** for high-traffic environments.
-- 🌱 **Learning:** Currently exploring **AWS Cloud Infrastructure** and **System Design Patterns**.
-- 📍 **Based In:** Kalol, Gujarat, India.
+<img align="right" width="230px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN4bmh6bmh6bmh6bmh6bmh6bmh6bmh6bmh6bmh6bmh6JmVwPXYxX2ludGVybmFsX2dpZl9ieZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
 
----
+- 👨‍💻 Full Stack Developer focused on building scalable and efficient web applications. 
+- ⚙️ Skilled in MERN Stack with a growing interest in system design.
+- 🚀 Passionate about turning ideas into real-world products.  
+- 🎯 Always improving problem-solving and backend expertise.  
+- 🤝 Thrive in collaborative and team-driven environments.  
+- 💡 Creative thinker who values performance and clean UI.
+
+----
+    
 <h2>🌐 Connect With Me</h2>
 
 <p>
