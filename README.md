@@ -25,7 +25,7 @@
 
 ----
     
-<h2 align="center">🌐 Connect With Me</h2>
+<h2>🌐 Connect With Me</h2>
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
@@ -36,9 +36,9 @@
 
 ---
 
-<h2 align="center">🛠 Tech Stack</h2>
+<h2>🛠 Tech Stack</h2>
 
-<h3 align="center">🚀 Frontend</h3>
+<h3>🚀 Frontend</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" />
@@ -52,7 +52,7 @@
 
 ---
 
-<h3 align="center">🎨 UI Libraries</h3>
+<h3>🎨 UI Libraries</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Material%20UI-blue?style=for-the-badge&logo=mui" />
@@ -63,7 +63,7 @@
 
 ---
 
-<h3 align="center">⚙️ Backend</h3>
+<h3>Backend</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js" />
@@ -76,7 +76,7 @@
 
 ---
 
-<h3 align="center">🧰 Tools</h3>
+<h3>🧰 Tools</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify" />
