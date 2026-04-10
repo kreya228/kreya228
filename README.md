@@ -25,73 +25,68 @@
 
 ----
     
-<h2>🌐 Connect With Me</h2>
+<h2 align="center">🌐 Connect With Me</h2>
 
-<p>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-
-  <a href="https://your-resume-link.com">
-    <img src="https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=readme&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/kreya228">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=readthedocs" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
 </p>
 
+---
 
+<h2 align="center">🛠 Tech Stack</h2>
+
+<h3 align="center">🚀 Frontend</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/React%20Native-black?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" />
+</p>
 
 ---
 
-# 🛠️ Tech Stack
+<h3 align="center">🎨 UI Libraries</h3>
 
-## 🚀 Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Material%20UI-blue?style=for-the-badge&logo=mui" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-teal?style=for-the-badge&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/Chakra%20UI-green?style=for-the-badge&logo=chakraui" />
+  <img src="https://img.shields.io/badge/SCSS-pink?style=for-the-badge&logo=sass" />
+</p>
 
 ---
 
-## 🎨 UI Libraries
+<h3 align="center">⚙️ Backend</h3>
 
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
----
-
-## ⚙️ Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Mongoose-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST%20API-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge" />
+</p>
 
 ---
 
-## 🧰 Tools
+<h3 align="center">🧰 Tools</h3>
 
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+<p align="center">
+  <img src="https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify" />
+  <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel" />
+  <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman" />
+  <img src="https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=jira" />
+  <img src="https://img.shields.io/badge/Figma-orange?style=for-the-badge&logo=figma" />
+</p>
 
 ---
 
