@@ -63,7 +63,7 @@
 
 ---
 
-<h3>Backend</h3>
+<h3>⚙️ Backend</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js" />
