@@ -30,7 +30,7 @@
 <p align="center">
   <a href="mailto:kriya22908@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
   <a href="https://react-portfolio-kreya.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox" /></a>
-  <a href="file:///C:/Users/Kriya%20Panchal/Downloads/Kreya_Panchal_FlowCV_Resume_2026-04-10.pdf"><img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=readthedocs" /></a>
+  <a href="https://drive.google.com/file/d/163NUybrDFTM_ZDhpd5YSBq4H0hY-ROOE/view"><img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=readthedocs" /></a>
   <a href="https://github.com/kreya228"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
 </p>
 
