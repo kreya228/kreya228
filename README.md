@@ -88,12 +88,6 @@
   <img src="https://img.shields.io/badge/Figma-orange?style=for-the-badge&logo=figma" />
 </p>
 
----
-
-## 📊 GitHub Performance Metrics
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kreya228&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 <h2 align="center">📊 Contribution Activity</h2>
